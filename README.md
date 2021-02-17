@@ -2,6 +2,5 @@
 
 ## Notebook Checkout:
 
-data_cleaning.ipynb: Name
-
-data_viz.ipynb: Name
+-data_cleaning.ipynb: Name
+-data_viz.ipynb: Name
